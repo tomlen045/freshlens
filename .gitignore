@@ -1,5 +1,7 @@
-# 公众号排版产物不入仓（技能铁律）；shots/ 例外——入仓当 jsDelivr CDN 图床
+# 公众号排版产物与 QA 工具不入仓（技能铁律）；shots/ 例外——入仓当 jsDelivr CDN 图床
 freshlens-article.html
 make_shots_freshlens.py
+verify_cdn.py
+render_qa.py
 __pycache__/
 .DS_Store
